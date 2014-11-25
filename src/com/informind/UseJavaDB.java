@@ -1,7 +1,7 @@
 package com.informind;
 
 import java.sql.Connection;
-import com.informind.DatabaseSample;
+import com.informind.DatabaseSample.*;
 
 public class UseJavaDB {
     public static void main(String[] args) {
